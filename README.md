@@ -24,8 +24,7 @@ Customer account information – how long they’ve been a customer, contract, p
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
 
-
-
+![Dashboard image](Dashboard_Screenshot.png)
 
 
 - [@victoriaoni](https://github.com/victoriaoni/victoriaoni.github.io)
