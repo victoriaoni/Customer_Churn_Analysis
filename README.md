@@ -11,7 +11,7 @@ Churn rate formula = (Lost Customers ÷ Total Customers at Start of Month) x 100
 
 ## Content
 
-Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
+Each row represents a customer, each column contains customer’s attributes.
 
 The data set includes information about:
 
