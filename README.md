@@ -27,4 +27,4 @@ Demographic info about customers – gender, age range, and if they have partner
 ![Dashboard image](Dashboard_Screenshot.png)
 
 
-- [@victoriaoni](https://github.com/victoriaoni/victoriaoni.github.io)
+- [@victoriaoni](https://github.com/victoriaoni)
