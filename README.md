@@ -2,7 +2,7 @@
 
 This is a simple dashboard to look at the number and rate of people who stopped being a customer. This should help to analyse customer data and develop focused customer-retention programme.
 
-Customer churn or customer attrition is when someone stops being a customer. It can be measured using churn rate.
+Customer churn or customer attrition can be measured using churn rate.
 
 Churn rate formula = (Lost Customers ÷ Total Customers at Start of Month) x 100 
 
