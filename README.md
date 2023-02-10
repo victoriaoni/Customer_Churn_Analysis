@@ -24,7 +24,11 @@ Customer account information: how long they’ve been a customer, contract, paym
 Demographic info about customers: gender, age range, and if they have partners and dependents.
 <br /><br /><br />
 
-![Dashboard image](Dashboard_Screenshot.png)
+
+![Image 1](Churn_screenshot_overview_1.png)<br /><br />
+![Image 2](Churn_Revenue_Lost_2.png)<br /><br />
+![Image 3](Churn_By_Services_3.png)<br /><br />
+![Image 4](Churn_Demography_4.png)
 
 <br /><br />
 - [@victoriaoni](https://github.com/victoriaoni)
